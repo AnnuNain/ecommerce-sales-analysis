@@ -1,7 +1,3 @@
-# ecommerce-sales-analysis
-Analyzing an online retail dataset to uncover sales trends, segment customers using RFM analysis, evaluate product performance, and explore time-based sales patterns. The project includes data cleaning, visualization, and customer segmentation to provide actionable business insights
-
-
 # E-Commerce Sales Analysis
 
 This project analyzes an online retail dataset to uncover sales trends, segment customers using RFM (Recency, Frequency, Monetary) analysis, evaluate product performance, and explore time-based sales patterns. It includes data cleaning, visualization, customer segmentation, and preparation of insights for business decision-making.
